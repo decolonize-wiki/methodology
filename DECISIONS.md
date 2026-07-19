@@ -7,7 +7,7 @@ Contested-change rulings are recorded here (see GOVERNANCE.md).
 **Ruling:** Accepted. Adds `categories/delegitimizing-labels.md` as the
 seventh category; removed from `CANDIDATES.md`.
 
-**Reasoning:** Met the promotion bar (ANALYZE.md §Methodology feedback) —
+**Reasoning:** Met the promotion bar (platform repo's ANALYZE.md, §Methodology feedback) —
 independently recorded in 4 articles by 3 adversarial reviewers (Scramble
 for Africa, South Africa, Kingdom of Benin ×2), not coverable by amending an
 existing category (it is the inverse of `euphemism`, and the occurrences

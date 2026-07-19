@@ -37,8 +37,8 @@ The full registry, with exact citations, is `SOURCES.md`.
 ## Versioning
 
 Versions are git tags (`v0.1`, `v0.2`, …). Every published analysis records
-the methodology version that produced it. v0.1 is deliberately small and
-visibly incomplete — it improves in public.
+the methodology version that produced it. Early versions are deliberately
+small and visibly incomplete — the methodology improves in public.
 
 ## Not affiliated with the Wikimedia Foundation
 
