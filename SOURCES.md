@@ -60,3 +60,5 @@ analysis JSON (`contextFacts[].sourceId`).
 | oyewumi-1997 | Oyèrónkẹ́ Oyěwùmí, *The Invention of Women: Making an African Sense of Western Gender Discourses*, University of Minnesota Press, 1997 |
 | santos-2014 | Boaventura de Sousa Santos, *Epistemologies of the South: Justice against Epistemicide*, Paradigm Publishers, 2014 |
 | tuck-yang-2012 | Eve Tuck & K. Wayne Yang, "Decolonization Is Not a Metaphor", *Decolonization: Indigeneity, Education & Society* 1(1), 2012 |
+| fabian-1983 | Johannes Fabian, *Time and the Other: How Anthropology Makes Its Object*, Columbia University Press, 1983 |
+| modest-lelijveld-2018 | Wayne Modest & Robin Lelijveld (eds.), *Words Matter: An Unfinished Guide to Word Choices in the Cultural Sector*, Nationaal Museum van Wereldculturen, 2018 |
